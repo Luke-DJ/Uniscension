@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 25e2a5bd32c3aa3489975db04952b9c7
+timeCreated: 1541089857
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box006
+    100002: Box016
+    100004: Box041
+    100006: Box042
+    100008: Box043
+    100010: Box044
+    100012: Box045
+    100014: Box059
+    100016: Box061
+    100018: Box062
+    100020: Box063
+    100022: Box064
+    100024: Box065
+    100026: Box066
+    100028: Box067
+    100030: Box068
+    100032: Box069
+    100034: Box070
+    100036: Box071
+    100038: Box072
+    100040: Box073
+    100042: Box074
+    100044: Box075
+    100046: Box076
+    100048: Box077
+    100050: Box082
+    100052: Box083
+    100054: Box084
+    100056: Box085
+    100058: Box086
+    100060: Box087
+    100062: Box088
+    100064: Box089
+    100066: Box090
+    100068: Box091
+    100070: Box092
+    100072: Box093
+    100074: FINAL_level_Base001
+    100076: //RootNode
+    400000: Box006
+    400002: Box016
+    400004: Box041
+    400006: Box042
+    400008: Box043
+    400010: Box044
+    400012: Box045
+    400014: Box059
+    400016: Box061
+    400018: Box062
+    400020: Box063
+    400022: Box064
+    400024: Box065
+    400026: Box066
+    400028: Box067
+    400030: Box068
+    400032: Box069
+    400034: Box070
+    400036: Box071
+    400038: Box072
+    400040: Box073
+    400042: Box074
+    400044: Box075
+    400046: Box076
+    400048: Box077
+    400050: Box082
+    400052: Box083
+    400054: Box084
+    400056: Box085
+    400058: Box086
+    400060: Box087
+    400062: Box088
+    400064: Box089
+    400066: Box090
+    400068: Box091
+    400070: Box092
+    400072: Box093
+    400074: FINAL_level_Base001
+    400076: //RootNode
+    2300000: Box006
+    2300002: Box016
+    2300004: Box041
+    2300006: Box042
+    2300008: Box043
+    2300010: Box044
+    2300012: Box045
+    2300014: Box059
+    2300016: Box061
+    2300018: Box062
+    2300020: Box063
+    2300022: Box064
+    2300024: Box065
+    2300026: Box066
+    2300028: Box067
+    2300030: Box068
+    2300032: Box069
+    2300034: Box070
+    2300036: Box071
+    2300038: Box072
+    2300040: Box073
+    2300042: Box074
+    2300044: Box075
+    2300046: Box076
+    2300048: Box077
+    2300050: Box082
+    2300052: Box083
+    2300054: Box084
+    2300056: Box085
+    2300058: Box086
+    2300060: Box087
+    2300062: Box088
+    2300064: Box089
+    2300066: Box090
+    2300068: Box091
+    2300070: Box092
+    2300072: Box093
+    2300074: FINAL_level_Base001
+    3300000: Box006
+    3300002: Box016
+    3300004: Box041
+    3300006: Box042
+    3300008: Box043
+    3300010: Box044
+    3300012: Box045
+    3300014: Box059
+    3300016: Box061
+    3300018: Box062
+    3300020: Box063
+    3300022: Box064
+    3300024: Box065
+    3300026: Box066
+    3300028: Box067
+    3300030: Box068
+    3300032: Box069
+    3300034: Box070
+    3300036: Box071
+    3300038: Box072
+    3300040: Box073
+    3300042: Box074
+    3300044: Box075
+    3300046: Box076
+    3300048: Box077
+    3300050: Box082
+    3300052: Box083
+    3300054: Box084
+    3300056: Box085
+    3300058: Box086
+    3300060: Box087
+    3300062: Box088
+    3300064: Box089
+    3300066: Box090
+    3300068: Box091
+    3300070: Box092
+    3300072: Box093
+    3300074: FINAL_level_Base001
+    4300000: Box006
+    4300002: Box016
+    4300004: Box041
+    4300006: Box042
+    4300008: Box043
+    4300010: Box044
+    4300012: Box045
+    4300014: Box059
+    4300016: Box061
+    4300018: Box062
+    4300020: Box063
+    4300022: Box064
+    4300024: Box065
+    4300026: Box066
+    4300028: Box067
+    4300030: Box068
+    4300032: Box069
+    4300034: Box070
+    4300036: Box071
+    4300038: Box072
+    4300040: Box073
+    4300042: Box074
+    4300044: Box075
+    4300046: Box076
+    4300048: Box077
+    4300050: Box082
+    4300052: Box083
+    4300054: Box084
+    4300056: Box085
+    4300058: Box086
+    4300060: Box087
+    4300062: Box088
+    4300064: Box089
+    4300066: Box090
+    4300068: Box091
+    4300070: Box092
+    4300072: Box093
+    4300074: FINAL_level_Base001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__49
+    second: {fileID: 2100000, guid: e2b8a6994a8448a4ab260e8d0f2dd22f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_008008136
+    second: {fileID: 2100000, guid: d03005ead1a26e443ac124bb1c96beb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_027177027
+    second: {fileID: 2100000, guid: 4f96b1d53944f2c458a2c9f89cea519c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_088088225
+    second: {fileID: 2100000, guid: 0142113bdf74f3046bb6ef6ec6adfc07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_135006006
+    second: {fileID: 2100000, guid: 3995d8eb03d6c4f4783be3c9b99e7b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_135110008
+    second: {fileID: 2100000, guid: fe85e2fd03339a84abb4b93186017979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_138008110
+    second: {fileID: 2100000, guid: 44eb059368b974442a9568e8a685c194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_153228153
+    second: {fileID: 2100000, guid: 6cc7d882903ddb54b9b8abb5d5fdbfc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_177088027
+    second: {fileID: 2100000, guid: 6ca561a72613704439b2d653428a699e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_196088225
+    second: {fileID: 2100000, guid: 00d34667d01091e40bb84826b7545bc1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

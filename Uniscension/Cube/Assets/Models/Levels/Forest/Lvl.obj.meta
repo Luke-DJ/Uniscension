@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 3cac52a604d3a9245856692fea375675
+timeCreated: 1541069419
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box196
+    100002: Box376
+    100004: Cone131
+    100006: Cone132
+    100008: Cone133
+    100010: Cone134
+    100012: Cone135
+    100014: Cone136
+    100016: Cone137
+    100018: Cone138
+    100020: Cone139
+    100022: Cone140
+    100024: Cone141
+    100026: Cone142
+    100028: Cone143
+    100030: Cone144
+    100032: Cone145
+    100034: Cone146
+    100036: Cone147
+    100038: Cone148
+    100040: Cone149
+    100042: Cone150
+    100044: Cone151
+    100046: Cylinder044
+    100048: Cylinder045
+    100050: Cylinder046
+    100052: Cylinder047
+    100054: Cylinder048
+    100056: Cylinder049
+    100058: Cylinder050
+    100060: Cylinder051
+    100062: Cylinder052
+    100064: Level
+    100066: //RootNode
+    400000: Box196
+    400002: Box376
+    400004: Cone131
+    400006: Cone132
+    400008: Cone133
+    400010: Cone134
+    400012: Cone135
+    400014: Cone136
+    400016: Cone137
+    400018: Cone138
+    400020: Cone139
+    400022: Cone140
+    400024: Cone141
+    400026: Cone142
+    400028: Cone143
+    400030: Cone144
+    400032: Cone145
+    400034: Cone146
+    400036: Cone147
+    400038: Cone148
+    400040: Cone149
+    400042: Cone150
+    400044: Cone151
+    400046: Cylinder044
+    400048: Cylinder045
+    400050: Cylinder046
+    400052: Cylinder047
+    400054: Cylinder048
+    400056: Cylinder049
+    400058: Cylinder050
+    400060: Cylinder051
+    400062: Cylinder052
+    400064: Level
+    400066: //RootNode
+    2300000: Box196
+    2300002: Box376
+    2300004: Cone131
+    2300006: Cone132
+    2300008: Cone133
+    2300010: Cone134
+    2300012: Cone135
+    2300014: Cone136
+    2300016: Cone137
+    2300018: Cone138
+    2300020: Cone139
+    2300022: Cone140
+    2300024: Cone141
+    2300026: Cone142
+    2300028: Cone143
+    2300030: Cone144
+    2300032: Cone145
+    2300034: Cone146
+    2300036: Cone147
+    2300038: Cone148
+    2300040: Cone149
+    2300042: Cone150
+    2300044: Cone151
+    2300046: Cylinder044
+    2300048: Cylinder045
+    2300050: Cylinder046
+    2300052: Cylinder047
+    2300054: Cylinder048
+    2300056: Cylinder049
+    2300058: Cylinder050
+    2300060: Cylinder051
+    2300062: Cylinder052
+    2300064: Level
+    3300000: Box196
+    3300002: Box376
+    3300004: Cone131
+    3300006: Cone132
+    3300008: Cone133
+    3300010: Cone134
+    3300012: Cone135
+    3300014: Cone136
+    3300016: Cone137
+    3300018: Cone138
+    3300020: Cone139
+    3300022: Cone140
+    3300024: Cone141
+    3300026: Cone142
+    3300028: Cone143
+    3300030: Cone144
+    3300032: Cone145
+    3300034: Cone146
+    3300036: Cone147
+    3300038: Cone148
+    3300040: Cone149
+    3300042: Cone150
+    3300044: Cone151
+    3300046: Cylinder044
+    3300048: Cylinder045
+    3300050: Cylinder046
+    3300052: Cylinder047
+    3300054: Cylinder048
+    3300056: Cylinder049
+    3300058: Cylinder050
+    3300060: Cylinder051
+    3300062: Cylinder052
+    3300064: Level
+    4300000: Box196
+    4300002: Box376
+    4300004: Cone131
+    4300006: Cone132
+    4300008: Cone133
+    4300010: Cone134
+    4300012: Cone135
+    4300014: Cone136
+    4300016: Cone137
+    4300018: Cone138
+    4300020: Cone139
+    4300022: Cone140
+    4300024: Cone141
+    4300026: Cone142
+    4300028: Cone143
+    4300030: Cone144
+    4300032: Cone145
+    4300034: Cone146
+    4300036: Cone147
+    4300038: Cone148
+    4300040: Cone149
+    4300042: Cone150
+    4300044: Cone151
+    4300046: Cylinder044
+    4300048: Cylinder045
+    4300050: Cylinder046
+    4300052: Cylinder047
+    4300054: Cylinder048
+    4300056: Cylinder049
+    4300058: Cylinder050
+    4300060: Cylinder051
+    4300062: Cylinder052
+    4300064: Level
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_004004004
+    second: {fileID: 2100000, guid: 4c3fcf2f6011dbe41b7a97b09440295c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_006006006
+    second: {fileID: 2100000, guid: e242f1af2c0bcd2499bd87c30da2d8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_034034034
+    second: {fileID: 2100000, guid: 8ff7d6c2dab0cb74985039830be11c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_086086086
+    second: {fileID: 2100000, guid: ea801b8bd85cc004d833c5c1212cba16, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

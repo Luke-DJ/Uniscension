@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: c8f906555597e8645a3ef306358e1fc1
+timeCreated: 1541016031
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cone124
+    100002: Cone125
+    100004: Cone126
+    100006: Cone127
+    100008: Cone128
+    100010: Cone129
+    100012: Cone130
+    100014: Cylinder041
+    100016: Cylinder042
+    100018: Cylinder043
+    100020: //RootNode
+    100022: Island
+    400000: Cone124
+    400002: Cone125
+    400004: Cone126
+    400006: Cone127
+    400008: Cone128
+    400010: Cone129
+    400012: Cone130
+    400014: Cylinder041
+    400016: Cylinder042
+    400018: Cylinder043
+    400020: //RootNode
+    400022: Island
+    2300000: Cone124
+    2300002: Cone125
+    2300004: Cone126
+    2300006: Cone127
+    2300008: Cone128
+    2300010: Cone129
+    2300012: Cone130
+    2300014: Cylinder041
+    2300016: Cylinder042
+    2300018: Cylinder043
+    2300020: Island
+    3300000: Cone124
+    3300002: Cone125
+    3300004: Cone126
+    3300006: Cone127
+    3300008: Cone128
+    3300010: Cone129
+    3300012: Cone130
+    3300014: Cylinder041
+    3300016: Cylinder042
+    3300018: Cylinder043
+    3300020: Island
+    4300000: Cone124
+    4300002: Cone125
+    4300004: Cone126
+    4300006: Cone127
+    4300008: Cone128
+    4300010: Cone129
+    4300012: Cone130
+    4300014: Cylinder041
+    4300016: Cylinder042
+    4300018: Cylinder043
+    4300020: Island
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone124Mat
+    second: {fileID: 2100000, guid: 2665961f85d97a643a221a5db08b8edb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone125Mat
+    second: {fileID: 2100000, guid: a31603e3197899c4e8089152daf38066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone126Mat
+    second: {fileID: 2100000, guid: ab6be021d2e365e4a8899badd5d88570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone127Mat
+    second: {fileID: 2100000, guid: 518a39678abb2f640a920802ebc77c1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone128Mat
+    second: {fileID: 2100000, guid: 42d39a583d3282f49b7b23f5915e88c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone129Mat
+    second: {fileID: 2100000, guid: 84119e7c37b3ef242b1e7be88250dcf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone130Mat
+    second: {fileID: 2100000, guid: 41b60ecc798e3e941a8be8067928212c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder041Mat
+    second: {fileID: 2100000, guid: 0356ba1f9cd071549a176cfcd64d3de3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder042Mat
+    second: {fileID: 2100000, guid: e3d23f3d6178d0e4e943fcba29d7c998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder043Mat
+    second: {fileID: 2100000, guid: 93993d707efe95f4f9ca8770fef292ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IslandMat
+    second: {fileID: 2100000, guid: 2e8eb28ddd0b19342b5f4a2c2b0f948f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

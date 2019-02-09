@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a95e751fc3b989e4382e6f72defaf53f
+timeCreated: 1541110017
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sportsball
+  fontNames:
+  - Sportsball
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

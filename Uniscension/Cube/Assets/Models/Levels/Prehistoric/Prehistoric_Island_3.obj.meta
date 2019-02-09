@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: f7e496e9136062948b66faf1d2c264f0
+timeCreated: 1541089586
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cylinder002
+    100002: Cylinder006
+    100004: Cylinder028
+    100006: Cylinder030
+    100008: Cylinder031
+    100010: Cylinder032
+    100012: Cylinder033
+    100014: Cylinder034
+    100016: Cylinder035
+    100018: Cylinder036
+    100020: Cylinder037
+    100022: Cylinder038
+    100024: Cylinder039
+    100026: Cylinder040
+    100028: Cylinder041
+    100030: Cylinder042
+    100032: Cylinder043
+    100034: GeoSphere004
+    100036: Hedra002
+    100038: Hedra003
+    100040: Hedra004
+    100042: Hedra005
+    100044: //RootNode
+    400000: Cylinder002
+    400002: Cylinder006
+    400004: Cylinder028
+    400006: Cylinder030
+    400008: Cylinder031
+    400010: Cylinder032
+    400012: Cylinder033
+    400014: Cylinder034
+    400016: Cylinder035
+    400018: Cylinder036
+    400020: Cylinder037
+    400022: Cylinder038
+    400024: Cylinder039
+    400026: Cylinder040
+    400028: Cylinder041
+    400030: Cylinder042
+    400032: Cylinder043
+    400034: GeoSphere004
+    400036: Hedra002
+    400038: Hedra003
+    400040: Hedra004
+    400042: Hedra005
+    400044: //RootNode
+    2300000: Cylinder002
+    2300002: Cylinder006
+    2300004: Cylinder028
+    2300006: Cylinder030
+    2300008: Cylinder031
+    2300010: Cylinder032
+    2300012: Cylinder033
+    2300014: Cylinder034
+    2300016: Cylinder035
+    2300018: Cylinder036
+    2300020: Cylinder037
+    2300022: Cylinder038
+    2300024: Cylinder039
+    2300026: Cylinder040
+    2300028: Cylinder041
+    2300030: Cylinder042
+    2300032: Cylinder043
+    2300034: GeoSphere004
+    2300036: Hedra002
+    2300038: Hedra003
+    2300040: Hedra004
+    2300042: Hedra005
+    3300000: Cylinder002
+    3300002: Cylinder006
+    3300004: Cylinder028
+    3300006: Cylinder030
+    3300008: Cylinder031
+    3300010: Cylinder032
+    3300012: Cylinder033
+    3300014: Cylinder034
+    3300016: Cylinder035
+    3300018: Cylinder036
+    3300020: Cylinder037
+    3300022: Cylinder038
+    3300024: Cylinder039
+    3300026: Cylinder040
+    3300028: Cylinder041
+    3300030: Cylinder042
+    3300032: Cylinder043
+    3300034: GeoSphere004
+    3300036: Hedra002
+    3300038: Hedra003
+    3300040: Hedra004
+    3300042: Hedra005
+    4300000: Cylinder002
+    4300002: Cylinder006
+    4300004: Cylinder028
+    4300006: Cylinder030
+    4300008: Cylinder031
+    4300010: Cylinder032
+    4300012: Cylinder033
+    4300014: Cylinder034
+    4300016: Cylinder035
+    4300018: Cylinder036
+    4300020: Cylinder037
+    4300022: Cylinder038
+    4300024: Cylinder039
+    4300026: Cylinder040
+    4300028: Cylinder041
+    4300030: Cylinder042
+    4300032: Cylinder043
+    4300034: GeoSphere004
+    4300036: Hedra002
+    4300038: Hedra003
+    4300040: Hedra004
+    4300042: Hedra005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__26
+    second: {fileID: 2100000, guid: 140dc867d94b02e40b2dc2fef243dcaa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
